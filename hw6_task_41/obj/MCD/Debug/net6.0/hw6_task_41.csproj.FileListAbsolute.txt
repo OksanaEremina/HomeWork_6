@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\hw6\hw6_task_41\bin\MCD\Debug\net6.0\hw6_task_41.exe
+C:\Users\User\Desktop\hw6\hw6_task_41\bin\MCD\Debug\net6.0\hw6_task_41.deps.json
+C:\Users\User\Desktop\hw6\hw6_task_41\bin\MCD\Debug\net6.0\hw6_task_41.runtimeconfig.json
+C:\Users\User\Desktop\hw6\hw6_task_41\bin\MCD\Debug\net6.0\hw6_task_41.dll
+C:\Users\User\Desktop\hw6\hw6_task_41\bin\MCD\Debug\net6.0\hw6_task_41.pdb
+C:\Users\User\Desktop\hw6\hw6_task_41\obj\MCD\Debug\net6.0\hw6_task_41.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\hw6\hw6_task_41\obj\MCD\Debug\net6.0\hw6_task_41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\hw6\hw6_task_41\obj\MCD\Debug\net6.0\hw6_task_41.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\hw6\hw6_task_41\obj\MCD\Debug\net6.0\hw6_task_41.AssemblyInfo.cs
+C:\Users\User\Desktop\hw6\hw6_task_41\obj\MCD\Debug\net6.0\hw6_task_41.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\hw6\hw6_task_41\obj\MCD\Debug\net6.0\hw6_task_41.dll
+C:\Users\User\Desktop\hw6\hw6_task_41\obj\MCD\Debug\net6.0\refint\hw6_task_41.dll
+C:\Users\User\Desktop\hw6\hw6_task_41\obj\MCD\Debug\net6.0\hw6_task_41.pdb
+C:\Users\User\Desktop\hw6\hw6_task_41\obj\MCD\Debug\net6.0\hw6_task_41.genruntimeconfig.cache
+C:\Users\User\Desktop\hw6\hw6_task_41\obj\MCD\Debug\net6.0\ref\hw6_task_41.dll
